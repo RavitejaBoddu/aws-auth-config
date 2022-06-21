@@ -1,0 +1,2 @@
+key_id:AKIAW7TG4WZAOWNFSMGA
+secret key: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
